@@ -35,11 +35,8 @@ Here are some ideas to get you started:
 </p>
 
 
-🔭 I’m currently working on NodeJS
+🔭 I’m currently working on Vibe Coding
 
-🌱 I’m currently learning Rust
-
-🤔 I’m interested in Machine Learning
 
 
 <p align="center">
